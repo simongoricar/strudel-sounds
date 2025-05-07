@@ -1,0 +1,127 @@
+{
+	"sgdrums_bd": [
+		"/sgdrums__bd__1.wav",
+		"/sgdrums__bd__2.wav",
+		"/sgdrums__bd__3.wav",
+		"/sgdrums__bd__4.wav"
+	],
+	"sgdrums_cbs": [
+		"/sgdrums__cbs__1.wav",
+		"/sgdrums__cbs__2.wav",
+		"/sgdrums__cbs__3.wav",
+		"/sgdrums__cbs__4.wav"
+	],
+	"sgdrums_cr": [
+		"/sgdrums__cr__1.wav",
+		"/sgdrums__cr__2.wav",
+		"/sgdrums__cr__3.wav",
+		"/sgdrums__cr__4.wav"
+	],
+	"sgdrums_hh": [
+		"/sgdrums__hh__1.wav",
+		"/sgdrums__hh__2.wav",
+		"/sgdrums__hh__3.wav",
+		"/sgdrums__hh__4.wav"
+	],
+	"sgdrums_oh": [
+		"/sgdrums__oh__1.wav",
+		"/sgdrums__oh__2.wav",
+		"/sgdrums__oh__3.wav",
+		"/sgdrums__oh__4.wav"
+	],
+	"sgdrums_rd": [
+		"/sgdrums__rd__1.wav",
+		"/sgdrums__rd__2.wav",
+		"/sgdrums__rd__3.wav",
+		"/sgdrums__rd__4.wav"
+	],
+	"sgdrums_rim": [
+		"/sgdrums__rim__1.wav",
+		"/sgdrums__rim__2.wav",
+		"/sgdrums__rim__3.wav",
+		"/sgdrums__rim__4.wav"
+	],
+	"sgdrums_sd": [
+		"/sgdrums__sd__1.wav",
+		"/sgdrums__sd__2.wav",
+		"/sgdrums__sd__3.wav",
+		"/sgdrums__sd__4.wav"
+	],
+	"sgdrums_ss": [
+		"/sgdrums__ss__1.wav",
+		"/sgdrums__ss__2.wav",
+		"/sgdrums__ss__3.wav",
+		"/sgdrums__ss__4.wav"
+	],
+	"sgdrums2_bd": [
+		"/sgdrums2__bd__1.wav",
+		"/sgdrums2__bd__2.wav",
+		"/sgdrums2__bd__3.wav",
+		"/sgdrums2__bd__4.wav"
+	],
+	"sgdrums2_cbs": [
+		"/sgdrums2__cbs__1.wav",
+		"/sgdrums2__cbs__2.wav",
+		"/sgdrums2__cbs__3.wav",
+		"/sgdrums2__cbs__4.wav"
+	],
+	"sgdrums2_cr": [
+		"/sgdrums2__cr__1.wav",
+		"/sgdrums2__cr__2.wav",
+		"/sgdrums2__cr__3.wav",
+		"/sgdrums2__cr__4.wav"
+	],
+	"sgdrums2_hh": [
+		"/sgdrums2__hh__1.wav",
+		"/sgdrums2__hh__2.wav",
+		"/sgdrums2__hh__3.wav",
+		"/sgdrums2__hh__4.wav"
+	],
+	"sgdrums2_oh": [
+		"/sgdrums2__oh__1.wav",
+		"/sgdrums2__oh__2.wav",
+		"/sgdrums2__oh__3.wav",
+		"/sgdrums2__oh__4.wav"
+	],
+	"sgdrums2_rd": [
+		"/sgdrums2__rd__1.wav",
+		"/sgdrums2__rd__2.wav",
+		"/sgdrums2__rd__3.wav",
+		"/sgdrums2__rd__4.wav"
+	],
+	"sgdrums2_rim": [
+		"/sgdrums2__rim__1.wav",
+		"/sgdrums2__rim__2.wav",
+		"/sgdrums2__rim__3.wav",
+		"/sgdrums2__rim__4.wav"
+	],
+	"sgdrums2_sd": [
+		"/sgdrums2__sd__1.wav",
+		"/sgdrums2__sd__2.wav",
+		"/sgdrums2__sd__3.wav",
+		"/sgdrums2__sd__4.wav"
+	],
+	"sgdrums2_ss": [
+		"/sgdrums2__ss__1.wav",
+		"/sgdrums2__ss__2.wav",
+		"/sgdrums2__ss__3.wav",
+		"/sgdrums2__ss__4.wav"
+	],
+	"sgbell": {
+		"c4": "/sg__bell__c4.wav"
+	},
+	"sghm": [
+		"/sghm__0.wav",
+		"/sghm__1.wav",
+		"/sghm__2.wav",
+		"/sghm__3.wav",
+		"/sghm__4.wav",
+		"/sghm__5.wav",
+		"/sghm__6.wav",
+		"/sghm__7.wav",
+		"/sghm__8.wav",
+		"/sghm__9.wav",
+		"/sghm__10.wav",
+		"/sghm__11.wav"
+	]
+}
